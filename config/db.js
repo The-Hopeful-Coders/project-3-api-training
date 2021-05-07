@@ -1,7 +1,7 @@
 'use strict'
 
 // creating a base name for the mongodb
-const mongooseBaseName = 'project-3-api'
+const mongooseBaseName = 'project-3-api-repo'
 
 // create the mongodb uri for development and test
 const database = {
